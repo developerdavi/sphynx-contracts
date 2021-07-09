@@ -1,0 +1,18 @@
+{
+  "name": "sphynx-contracts",
+  "version": "1.0.0",
+  "description": "Sphynx contracts repository",
+  "main": "index.js",
+  "repository": "https://github.com/developerdavi/sphynx-contracts",
+  "author": "Davi Rodrigues <developer.davi@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "truffle compile"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
+    "solc": "^0.6.6",
+    "truffle": "^5.3.14"
+  }
+}
